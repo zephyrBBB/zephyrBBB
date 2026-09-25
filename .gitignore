@@ -1,6 +1,7 @@
 # Gradle
 /build/
 !gradle/wrapper/gradle-wrapper.jar
+.gradle/9.6.0/fileHashes
 
 # Local configuration file (IDE-specific)
 local.properties

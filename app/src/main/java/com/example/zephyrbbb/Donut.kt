@@ -1,4 +1,4 @@
 package com.example.zephyrbbb
 
-class Donut {
+class Donut(x: Int, y: Int): Shape(x, y) {
 }
